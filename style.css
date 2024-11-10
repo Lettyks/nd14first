@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:cursive
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(27, 99, 41);
+}
+
+h1{
+    color: white;
+    margin: 20px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(150, 243, 159);
+    
+}
+
+ul {
+    background-color: rgb(3, 43, 12);
+    padding: 3px 30px;
+    margin: 10px;
+    color: white;
+    border-radius: 5px;
+}
